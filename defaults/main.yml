@@ -1,0 +1,8 @@
+---
+role_name: logstash
+
+logstash_pkg_name: logstash
+logstash_pkg_version: 2.2.2
+
+local_apt_repo: /usr/local/deb-repo
+
